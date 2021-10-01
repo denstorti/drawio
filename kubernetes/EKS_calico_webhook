@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-01T01:29:36.737Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="Lx768INsHsFPkSJIhfPZ" version="15.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-10-01T01:31:01.379Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="1Foy4lxi7ij-2o6kmhPW" version="15.4.0" type="github" pages="3">
   <diagram id="DfgrVQYu-AWaDgaPp32G" name="problem">
-    <mxGraphModel dx="1638" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1796" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -78,7 +78,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Vg3nMN-AyiRDbhWS3Ek-" name="sol1 host network">
-    <mxGraphModel dx="1300" dy="296" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1796" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="KGl1MYVvuWGN0qda4RTE-0" />
         <mxCell id="KGl1MYVvuWGN0qda4RTE-1" parent="KGl1MYVvuWGN0qda4RTE-0" />
@@ -158,7 +158,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="ambassador pattern nginx proxy" id="Rf1nxo6jroAmY0tSfNXp">
-    <mxGraphModel dx="1963" dy="731" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1529" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="IYRRP6xmj8bEE39jX8Vg-0" />
         <mxCell id="IYRRP6xmj8bEE39jX8Vg-1" parent="IYRRP6xmj8bEE39jX8Vg-0" />
@@ -169,7 +169,7 @@
           <mxGeometry x="130" y="100" width="450" height="400" as="geometry" />
         </mxCell>
         <mxCell id="IYRRP6xmj8bEE39jX8Vg-4" value="Node 1 - 10.0.1.197" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;verticalAlign=top;align=left;fillColor=none;" vertex="1" parent="IYRRP6xmj8bEE39jX8Vg-1">
-          <mxGeometry x="150" y="230" width="420" height="220" as="geometry" />
+          <mxGeometry x="150" y="230" width="420" height="230" as="geometry" />
         </mxCell>
         <mxCell id="IYRRP6xmj8bEE39jX8Vg-5" value="EKS control plane&lt;br&gt;(managed by AWS)" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;verticalAlign=top;align=left;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="IYRRP6xmj8bEE39jX8Vg-1">
           <mxGeometry x="-90" y="190" width="210" height="260" as="geometry" />
@@ -181,7 +181,7 @@
           <mxGeometry x="180" y="260" width="100" height="140" as="geometry" />
         </mxCell>
         <mxCell id="IYRRP6xmj8bEE39jX8Vg-8" value="Calico Pod network vxlan - 192.168.0.0/16" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;verticalAlign=top;align=left;dashed=1;fillColor=none;" vertex="1" parent="IYRRP6xmj8bEE39jX8Vg-1">
-          <mxGeometry x="448" y="240" width="110" height="200" as="geometry" />
+          <mxGeometry x="460" y="242.5" width="98" height="200" as="geometry" />
         </mxCell>
         <mxCell id="IYRRP6xmj8bEE39jX8Vg-9" value="endpoint" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="IYRRP6xmj8bEE39jX8Vg-1" source="IYRRP6xmj8bEE39jX8Vg-10" target="IYRRP6xmj8bEE39jX8Vg-23">
           <mxGeometry relative="1" as="geometry" />
@@ -193,7 +193,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IYRRP6xmj8bEE39jX8Vg-11" value="Pod Nginx proxy&amp;nbsp;hostNetwork&lt;br&gt;10.0.1.197:3000" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=#dae8fc;align=left;verticalAlign=top;strokeColor=#6c8ebf;" vertex="1" parent="IYRRP6xmj8bEE39jX8Vg-1">
-          <mxGeometry x="300" y="396.5" width="110" height="50" as="geometry" />
+          <mxGeometry x="300" y="350" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="IYRRP6xmj8bEE39jX8Vg-12" value="1. request" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#1808FF;" edge="1" parent="IYRRP6xmj8bEE39jX8Vg-1" source="IYRRP6xmj8bEE39jX8Vg-13" target="IYRRP6xmj8bEE39jX8Vg-16">
           <mxGeometry relative="1" as="geometry" />
@@ -229,16 +229,16 @@
           <mxGeometry x="-230" y="207.5" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IYRRP6xmj8bEE39jX8Vg-20" value="3000" style="html=1;rounded=0;" vertex="1" parent="IYRRP6xmj8bEE39jX8Vg-1">
-          <mxGeometry x="429" y="437.5" width="30" height="30" as="geometry" />
+          <mxGeometry x="369" y="442.5" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IYRRP6xmj8bEE39jX8Vg-21" value="" style="endArrow=none;html=1;rounded=0;align=center;verticalAlign=top;endFill=0;labelBackgroundColor=none;endSize=2;" edge="1" parent="IYRRP6xmj8bEE39jX8Vg-1" source="IYRRP6xmj8bEE39jX8Vg-20" target="IYRRP6xmj8bEE39jX8Vg-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IYRRP6xmj8bEE39jX8Vg-22" value="" style="ellipse;html=1;fontSize=11;align=center;fillColor=none;points=[];aspect=fixed;resizable=0;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;flipH=1;" vertex="1" parent="IYRRP6xmj8bEE39jX8Vg-1">
-          <mxGeometry x="440" y="417.5" width="8" height="8" as="geometry" />
+          <mxGeometry x="380" y="399.5" width="8" height="8" as="geometry" />
         </mxCell>
         <mxCell id="IYRRP6xmj8bEE39jX8Vg-23" value="Webhook&lt;br&gt;pod&lt;br&gt;192.168.0.1" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=none;align=left;verticalAlign=top;" vertex="1" parent="IYRRP6xmj8bEE39jX8Vg-1">
-          <mxGeometry x="455" y="315" width="100" height="50" as="geometry" />
+          <mxGeometry x="480" y="315" width="75" height="50" as="geometry" />
         </mxCell>
         <mxCell id="IYRRP6xmj8bEE39jX8Vg-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="IYRRP6xmj8bEE39jX8Vg-1" source="IYRRP6xmj8bEE39jX8Vg-25" target="IYRRP6xmj8bEE39jX8Vg-11">
           <mxGeometry relative="1" as="geometry" />
