@@ -1,1 +1,90 @@
-<mxfile host="app.diagrams.net" modified="2021-10-01T00:43:38.426Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="4QPUZ8u3YUMWrnRNo5CV" version="15.4.0" type="github"><diagram id="DfgrVQYu-AWaDgaPp32G" name="Page-1">5Vpbk6I4FP41Vu0+aEECqI/2bfYyM+WUVWPvY4QoTAfiQPCyv35PIIgQ7LZ3G9ulux9MDkkI35dzyUl6+DbcfYrJ2v/CPcp6yPB2PXzXQ8gcjh34kZJ9LnGQmQtWceCpRqVgFvxNldBQ0jTwaFJpKDhnIlhXhS6PIuqKiozEMd9Wmy05q751TVZUE8xcwnTpPPCEn0tHtlHKf6PByi/ebBrqSUiKxkqQ+MTj2yMRvu/h25hzkZfC3S1lErwCl7zfw4mnh4nFNBLndJjhkLp3Du5/Db855rc/HueLeR+N82E2hKXqi+//nEk8WZoIGqupi32BR8zTyKNySKOHb7Z+IOhsTVz5dAsrAGS+CBnUTCgmT1S4vqpsaCwCAHbCglUEMsFla6JqjC7hK26WAWO3nPEYRBGPYNgbjyR+9kJTVaZEwMyiTIIMwPFGh0KhI99Jd0ciBc0nykMq4j00UU/7JrbzPvtiASretiXtw6KNf0S5XRBM1FJbHQYv2YCCIuQV5AxPccMjEXPZfc0IYIQcJrFbAFvOSpZ+CUkEC9ODFgv5jZP57NcrYPItaBobVZYsnaWD7ThmCQ/bYgkbGk2AlXdpvCtq0g74aDQY1pRkpMM/akDfbA19RwP/+xRGMiIqtjx+gpJpDLJ/GN50uqEFJn5ZCyy7gQerNR5MSyNiRuNNAEhWyBiigem8Gx2XUBJU5QY1cGM2cYNxaxZKo+YrxGkdUQW7BjduUAXUZJLMtuDWNaG7cGP73eG2PxDcB/v9fnDrG4ZbgMLlIJtyr2LsNzsIT+G3Lw3/WBr+UZctPx6dYfmdi1p+U49N53Thc/6kbxrW/LmY1XwlKQ0Q1xhppu0NeLBq0REe2RoPTTRYrbFgv7DaeSx8vuIRYZ+5RCFD8AcVYq8SIiQVvAa2ILGYyARHCXAmewjk5LJhT2KZ8DR26XMzLlItJF5R8VxDlDekXiWNonMTU0ZEsKlmVd4ead2uyJnNVFXh1BnwjesCf3gR8OkuEI9H5b+Oync7NW5W2avKtdCFr4uuwrCWvuGLfPtJB5Fs3G44CFQPYhscRFMWw7LbogJ9RDeNqrkkNH5vN63vkz8AC7VgyRrrQetFWUB6Rs8cZEbxZ0oT0QX/PjrTYRQKci0OY6QxM5n+DgKZ6Hv2qOh/pA/9WoYbmWdapbZ8A9LdtDr/YRJzIz/q6Sj62BkO3ht/3Tcnrk+9lHUVdKshhXpRyLG+5NEgW+oSLzB3gH0H/EBh3l/2A6Mz/YAi1BjYCFco7SOVlD7bU6jBpzyAzyqb8OUyoUJj+DCH/0C6rmdF2LXk2RxcpR4g/pnKWxOAPV4uTUuePZWiPEDDcsHcA3XQYwLFiIvs84nrkwU7nJnDVPPR817PrqpyAd2X0ssssmPrID965FLXzdrF/IkePXl4yOAonhRXVszLLNQrywYh/Whg4oVBkgQ86h2uUXTWjp+9oWrNdeoBo8ww1PdSR5zUHx32X13gx6odDzRElvYh3KncMGrN0epHlS6YSCHP7Pnih7xPdxr5f5u+A6XbP6r+WUUm8MBlFdUyh5fVXpPE08yhkf29sTnE+FxzeK7fvow5xHp+445uNIYTn6xlMQ3ZxBUSyYNKfCYLyqY8CYTUVny34ELw8KTOHLHOU8GCCKgpbmkaFdd5jpq+hYVEtWwHMpr2F7jBSDqvz3dAtbzdmYdJ5R1ZfP8P</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-01T00:44:32.706Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="SRHyC9nb9JhcfhxLlBWh" version="15.4.0" type="github">
+  <diagram id="DfgrVQYu-AWaDgaPp32G" name="Page-1">
+    <mxGraphModel dx="1796" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="S3mecD63-NmQ61QJXWbW-29" value="EKS cluster" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;verticalAlign=top;align=left;fillColor=none;dashed=1;dashPattern=1 2;" parent="1" vertex="1">
+          <mxGeometry x="-135" y="100" width="735" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="S3mecD63-NmQ61QJXWbW-7" value="EKS control plane&lt;br&gt;(managed by AWS)" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;verticalAlign=top;align=left;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="-90" y="140" width="210" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="S3mecD63-NmQ61QJXWbW-30" value="etcd" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;verticalAlign=top;align=left;dashed=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="28.75" y="180" width="80" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="S3mecD63-NmQ61QJXWbW-6" value="VPC network 10.0.0.0/16" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;verticalAlign=top;align=left;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="130" y="140" width="450" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="S3mecD63-NmQ61QJXWbW-14" value="Service network 172.16.0.0/16" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;verticalAlign=top;align=left;dashed=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="220" y="240" width="150" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="S3mecD63-NmQ61QJXWbW-3" value="Node 1" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;verticalAlign=top;align=left;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="150" y="230" width="420" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="S3mecD63-NmQ61QJXWbW-4" value="Node 2" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;verticalAlign=top;align=left;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="150" y="350" width="420" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="S3mecD63-NmQ61QJXWbW-5" value="Node 3" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;verticalAlign=top;align=left;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="150" y="470" width="420" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="S3mecD63-NmQ61QJXWbW-9" value="Calico Pod network vxlan - 192.168.0.0/16" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;verticalAlign=top;align=left;dashed=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="380" y="240" width="160" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="S3mecD63-NmQ61QJXWbW-10" value="Webhook&lt;br&gt;pod" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=none;align=left;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="430" y="385" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S3mecD63-NmQ61QJXWbW-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" parent="1" source="S3mecD63-NmQ61QJXWbW-11" target="S3mecD63-NmQ61QJXWbW-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S3mecD63-NmQ61QJXWbW-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" parent="1" source="S3mecD63-NmQ61QJXWbW-11" target="S3mecD63-NmQ61QJXWbW-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S3mecD63-NmQ61QJXWbW-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;" parent="1" source="S3mecD63-NmQ61QJXWbW-11" target="S3mecD63-NmQ61QJXWbW-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S3mecD63-NmQ61QJXWbW-11" value="My Webhook&lt;br&gt;svc" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=none;align=left;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="250" y="385" width="80" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="S3mecD63-NmQ61QJXWbW-12" value="Webhook&lt;br&gt;pod" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=none;align=left;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="425" y="295" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S3mecD63-NmQ61QJXWbW-13" value="Webhook&lt;br&gt;pod" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=none;align=left;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="430" y="490" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S3mecD63-NmQ61QJXWbW-26" value="1. request" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" parent="1" source="S3mecD63-NmQ61QJXWbW-18" target="S3mecD63-NmQ61QJXWbW-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S3mecD63-NmQ61QJXWbW-18" value="API Server" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=none;align=left;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="-75" y="215" width="60" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="S3mecD63-NmQ61QJXWbW-21" value="controller manager" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=none;align=left;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="-75" y="367.5" width="60" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="S3mecD63-NmQ61QJXWbW-22" value="scheduler" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=none;align=left;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="-75" y="430" width="60" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="S3mecD63-NmQ61QJXWbW-31" value="2. match rule" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" parent="1" source="S3mecD63-NmQ61QJXWbW-25" target="S3mecD63-NmQ61QJXWbW-28" edge="1">
+          <mxGeometry x="0.523" y="-24" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S3mecD63-NmQ61QJXWbW-32" value="&lt;font color=&quot;#ff1414&quot;&gt;3. Error: not reachable&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;fillColor=#f8cecc;strokeColor=#FF1414;strokeWidth=1;" parent="1" source="S3mecD63-NmQ61QJXWbW-25" target="S3mecD63-NmQ61QJXWbW-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S3mecD63-NmQ61QJXWbW-25" value="Admission controller" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=none;align=left;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="-75" y="295" width="60" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="S3mecD63-NmQ61QJXWbW-28" value="My&lt;br&gt;Admission&lt;br&gt;Webhook" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fillColor=none;align=left;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="40" y="215" width="57.5" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="S3mecD63-NmQ61QJXWbW-34" value="create object" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;strokeColor=#000000;strokeWidth=1;" parent="1" source="S3mecD63-NmQ61QJXWbW-33" target="S3mecD63-NmQ61QJXWbW-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S3mecD63-NmQ61QJXWbW-33" value="Dev" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=1;sketch=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-230" y="207.5" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
