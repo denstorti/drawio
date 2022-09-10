@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-10T00:16:27.915Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="tmRMRE-RY22l3E1XYt3y" version="20.3.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-10T00:17:43.214Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="2tRtrwaiAIx6HfOa2ftt" version="20.3.0" type="github" pages="2">
   <diagram name="Page-1" id="74b105a0-9070-1c63-61bc-23e55f88626e">
-    <mxGraphModel dx="1019" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2772.5" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -154,6 +154,9 @@
         </mxCell>
         <mxCell id="NAhCEB2W1_DOAD3AXYZe-30" value="Change Data Capture" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry y="266.9382019042969" width="123" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n662sS_YWUpIwc5-7mui-1" value="- Leverage serverless computing&lt;br&gt;- Use EDA&lt;br&gt;-&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="20" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
